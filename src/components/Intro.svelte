@@ -15,9 +15,11 @@
             Support the project by starring the repo and feel free to join the discord server to hang or talk about js 
         </p>
         <div class=" space-x-4 mt-6">
+            <a href="https://github.com/ilovebewbs/embidify" target="_blank">
             <button class=" bg-gray-500 text-white px-4 py-4 font-bold rounded-2xl hover:bg-gray-700">
                 Github repo
             </button>
+            </a>
             <a href="https://discord.gg/uC3aQ8J59m" target="_blank">
             <button class=" bg-purple-500 text-white px-4 py-4 font-bold rounded-2xl hover:bg-purple-800">
                 Discord server 
