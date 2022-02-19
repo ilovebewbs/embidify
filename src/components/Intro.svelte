@@ -9,7 +9,7 @@
             This web app helps you construct discord embeds to send to your server or a friend's 
         </p>
         <p class=" text-xl">
-            Simply put the webhook url and at least one of the fields then hit send 
+            Simply put the webhook url and at least one of the fields [except for the username unless you wanna override the username set in your webhook settings] then hit send 
         </p>
         <p class=" text-xl">
             Support the project by starring the repo and feel free to join the discord server to hang or talk about js 

@@ -1,6 +1,5 @@
 <script>
-    import axios from 'axios';
-    let webhook;
+    let webhook = "" || localStorage.getItem('webhook');
     let avatar;
     let username;
     let author;
@@ -10,6 +9,7 @@
     let image_link;
     const sendEmbed = async()=>{
         try {
+            localStorage.setItem('webhook', webhook);
             const config = {
                 method: 'post',
                 headers: {
